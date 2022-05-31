@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m a computer engineering student.
+- 📫 How to reach me: mkwak1125@gmail.com
 <!--
 **MinjuKwak01/MinjuKwak01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
