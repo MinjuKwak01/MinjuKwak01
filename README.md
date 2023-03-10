@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a junior in Chonnam University studying software engineering in South Korea.
+- 🔭 I’m a junior in college, studying software engineering in South Korea.
 - 📫 How to reach me: mkwak1125@gmail.com
 <!--
 **MinjuKwak01/MinjuKwak01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
