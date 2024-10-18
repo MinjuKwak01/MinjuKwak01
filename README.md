@@ -2,6 +2,7 @@
 
 - 🔭 I’m a senior in college, studying software engineering in South Korea.
 - 📫 How to reach me: mkwak1125@gmail.com
+- Interests : Web Backend, ML/DL
 <!--
 **MinjuKwak01/MinjuKwak01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
