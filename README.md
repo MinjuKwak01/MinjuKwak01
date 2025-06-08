@@ -1,20 +1,32 @@
-### Hi there 👋
+## Minju Kwak
 
-- 🔭 I’m a senior in college, studying software engineering in South Korea.
-- 📫 How to reach me: mkwak1125@gmail.com
 
-- 🧐 Spring, Java, ML/DL
-<!--
-**MinjuKwak01/MinjuKwak01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📖 Education & Experience
 
-Here are some ideas to get you started:
+* Software Engineering, Chonnam National University (2023.03 - 2025.02)
+* Kakao Tech Campus 1st Program (Backend) (2023.04 - 2023.11)
+* Econovation, Chonnam National University IT Club (2023.10 - 2025.02)
+* Samsung SW·AI academy For Youth 13th (Java Track) (2025.02 - Present)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjuKwak01&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinjuKwak01&layout=compact&theme=tokyonight)
+</div>
+
+---
+
+### 🚀 Projects
+
+ 📌 **[요약쏙 - yoyakssok]**
+- **Description**: PDF Summarization & Quiz Generation App
+- **[🔗 Google PlayStore](https://play.google.com/store/apps/details?id=com.forever.summarysnap)**
+
+---
+
+### 📫 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkwak1125@gmail.com)
