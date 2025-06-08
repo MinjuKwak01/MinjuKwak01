@@ -12,9 +12,9 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjuKwak01&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjuKwak01&show_icons=true&theme=material-palenight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinjuKwak01&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinjuKwak01&layout=compact&theme=material-palenight)
 </div>
 
 ---
