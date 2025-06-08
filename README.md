@@ -8,6 +8,16 @@
 * Econovation, Chonnam National University IT Club (2023.10 - 2025.02)
 * Samsung SW·AI academy For Youth 13th (Java Track) (2025.01 - Present)
 
+---
+
+### 🚀 Projects
+
+ 📌 **[요약쏙 - yoyakssok]**
+- **Description**: PDF Summarization & Quiz Generation App
+- **[🔗 Google PlayStore](https://play.google.com/store/apps/details?id=com.forever.summarysnap)**
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -16,14 +26,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinjuKwak01&layout=compact&theme=material-palenight)
 </div>
-
----
-
-### 🚀 Projects
-
- 📌 **[요약쏙 - yoyakssok]**
-- **Description**: PDF Summarization & Quiz Generation App
-- **[🔗 Google PlayStore](https://play.google.com/store/apps/details?id=com.forever.summarysnap)**
 
 ---
 
