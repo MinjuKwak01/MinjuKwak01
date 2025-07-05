@@ -7,6 +7,7 @@
 * Kakao Tech Campus 1st Program (Backend) (2023.04 - 2023.11)
 * Econovation, Chonnam National University IT Club (2023.10 - 2025.02)
 * Samsung SW·AI academy For Youth 13th (Java Track) (2025.01 - 2025.06)
+* Web Developer Intern, Staex (Germany) (2025.07 - Present)
 
 ---
 
