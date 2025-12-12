@@ -18,15 +18,6 @@
 - **[🔗 Google PlayStore](https://play.google.com/store/apps/details?id=com.forever.summarysnap)**
 - **[🔗 App Store](https://apps.apple.com/kr/app/%EC%9A%94%EC%95%BD%EC%8F%99/id6751475916)**
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MinjuKwak01&show_icons=true&theme=material-palenight&count_private=true)
-
-</div>
 
 ---
 
