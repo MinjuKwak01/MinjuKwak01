@@ -8,7 +8,7 @@
 * Econovation, Chonnam National University IT Club (2023.10 - 2025.02)
 * Samsung SW·AI academy For Youth 13th (Java Track) (2025.01 - 2025.06)
 * Web Developer Intern, Staex (Germany, Berlin) (2025.07 - 2025.10)
-* Backend Developer, Energy Conversion Research Center, KETI Gwangju (2026.01 - Present)
+* Backend Developer, Energy Conversion Research Center, KETI Gwangju (2026.01 - 2026.02)
 
 ---
 
